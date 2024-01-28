@@ -1,0 +1,88 @@
+Course Code,Course Title,Pre-requisite,Course Category,Course Credit
+SE 111,Computer Fundamentals,,Core,3
+SE 112,Computer Fundamentals Lab,,Lab,1
+SE 113,Introduction to Software Engineering,,Core,3
+ENG 114 / ENG 101,"English Reading, Writing Skills & Public Speaking / English I",,GED,3
+AOL 101,Art of Living,,GED,3
+MAT 124 / MAT 101,Math-I: Calculus & Geometry/ Mathematics I,,GED,3
+Total,,,,16
+,,,,
+,,,,
+Course Code,Course Title,Pre-Requisite,Course Category,Course Credit
+SE 121,Structured Programming,"SE 111, SE 112",Core,3
+SE 122,Structured Programming Lab,"SE 111, SE 112",Lab,1
+SE 123,Discrete Mathematics,,PGC,3
+SE 212,Software Requirement Specifications & Analysis,SE 113,Core,3
+SE 213,Digital Electronics & Logic Design,"SE 111, SE112",PGC,3
+PHY 125 / PHY 101,"Physics: Mechanics, Electromagnetism & Waves / Physics I",,GED,3
+MAT 134 / MAT 102,Math-II: Linear Algebra & Fourier Analysis / Mathematics II,MAT124/ MAT101,GED,3
+Total,,,,19
+,,,,
+,,,,
+Course Code,Course Title,Pre-Requisite,Course Category,Course Credit
+SE 131,Data Structure,"SE 121, SE 122, SE 123",PGC,3
+SE 132,Data Structure Lab,"SE 121, SE 122, SE 123",Lab,1
+SE 133,Software Development Capstone Project,"SE 121, SE 122",Lab-P,3
+SE 211,Object Oriented Concepts,"SE 121, SE 122",Core,3
+SE 222,Computer Architecture,SE 213,PGC,3
+STA 135 / STA 101,Probability & Statistics in Software Engineering / Statistics I,,GED,3
+BNS 101,Bangladesh Studies,,GED,3
+Total,,,,19
+,,,,
+,,,,
+Course Code,Course Title,Pre-Requisite,Course Category,Course Credit
+SE 214,Algorithms Design & Analysis,"SE 131, SE 132",PGC,3
+SE 215,Algorithms Design & Analysis Lab,"SE 131, SE 132",Lab,1
+SE 221,Object Oriented Design,SE211,Core,3
+SE 223,Database System,,Core,3
+SE 224,Database System Lab,,Lab,1
+SE 232,Operating System & System Programming,SE 222,PGC,3
+SE 233,Operating System & System Programming Lab,SE 222,Lab,1
+GE 235,"Principles of Accounting, Business & Economics",,GED,3
+SE 532 / SE XXX,Introduction to Robotics (G-1) / Guided Elective- I,SE 213,PGC,3
+Total,,,,21
+,,,,
+,,,,
+Course Code,Course Title,Pre-Requisite,Course Category,Course Credit
+SE 225,Data Communication & Computer Networking,,PGC,3
+SE 226,Data Communication & Computer Networking Lab,,Lab,1
+SE 231,System Analysis & Design Capstone Project,"SE 133, SE 212, SE 221",Lab-P,3
+SE 234,Theory of Computing,,PGC,3
+SE 311,Design Pattern,SE 221,Core,3
+SE 312,Software Quality Assurance & Testing,"SE 212, SE 221",Core,3
+SE 313,Software Quality Assurance & Testing Lab,"SE 212, SE 221",Lab,1
+GE 324,Business Analysis & Communication,"ENG114/ ENG101, SE212",GED,3
+Total,,,,20
+,,,,
+,,,,
+Course Code,Course Title,Pre-Requisite,Course Category,Course Credit
+SE 321,Software Engineering Web Application,"SE 121, SE 122",Core,3
+SE 322,Software Engineering Web Application Lab,"SE 121, SE 122",Lab,1
+SE 323,Software Architecture & Design,"SE212, SE221, SE223, SE311",Core,3
+SE 332,Information System Security,,Core,3
+SE 411,Software Project Management & Documentation,SE 312,Core,3
+SE 333,Artificial Intelligence,"SE 214, SE 234",Core,3
+SE 334,Artificial Intelligence Lab,"SE 214, SE 234",Lab,1
+SE 544 / SE XXX,Introduction to Machine Learning (G -2 / Guided Elective - I I,"MAT 101,MAT 102, STA 101, SE 121",PGC,3
+Total,,,,20
+,,,,
+,,,,
+Course Code,Course Title,Pre-Requisite,Course Category,Course Credit
+SE 331,Software Engineering Design Capstone Project,"SE 231, SE 312, SE 321, SE 323",Lab-P,3
+GE 557/ GED 302/ EMP 101,Employability 360,,GED,3
+SE 442/SE XXX,Management Information System (G-3)/Guided Elective- III,,PGC,3
+DS 331,Introduction To Data Science and Data Management & Analysis (DS Major),"STA 101, SE 121",Major,2
+DS 332,Introduction To Data Science and Data Management & Analysis Lab (DS Major),"STA 101, SE 121",Major-L,1
+DS 411,Statistical Data Analysis (DS Major),"DS 331, DS 332",Major,2
+DS 412,Statistical Data Analysis Lab (DS Major),"DS 331, DS 332",Major-L,1
+DS 421,Machine Learning Driven Data Analysis I (DS Major),"DS 411,DS 412, SE 544",Major,2
+DS 422,Machine Learning Driven Data Analysis Lab I (DS Major),"DS 411,DS 412, SE 544",Major-L,1
+Total,,,,18
+,,,,
+,,,,
+Course Code,Course Title,Pre-Requisite,Course Category,Course Credit
+SE XXX,Guided Elective-IV,,PGC,3
+DS 423,Machine Learning Driven Data Analysis II and Communicating Data Insights (DS Major),"DS 411,DS 412, SE 544",Major,2
+DS 424,Machine Learning Driven Data Analysis II and Communicating Data Insights Lab (DS Major),"DS 411,DS 412, SE 544",Major-L,1
+DS 431,Data Science Major Capstone Project,ALL DS Major Courses,PRO-THE,6
+Total,,,,12
